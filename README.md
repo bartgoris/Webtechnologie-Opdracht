@@ -1,4 +1,4 @@
 # Webtechnologie-Opdracht
-Bart Goris
-Brent Stappaerts
-Niels Meulders
+Bart Goris //
+Brent Stappaerts //
+Niels Meulders //
